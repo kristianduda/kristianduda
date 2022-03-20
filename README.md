@@ -30,7 +30,6 @@ Currently I'm also working on some open-source libs, which drive a couple of my 
 ![mongo](https://img.shields.io/badge/mongo-262626?style=for-the-badge&logo=mongodb)
 
 ![docker](https://img.shields.io/badge/docker-262626?style=for-the-badge&logo=docker)
-![azure](https://img.shields.io/badge/azure-262626?style=for-the-badge&logo=microsoftazure)
 ![github](https://img.shields.io/badge/github-262626?style=for-the-badge&logo=github)
 
 ## 📈 stats
