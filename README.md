@@ -23,14 +23,13 @@ Currently I'm also working on some open-source libs, which drive a couple of my 
 ![tailwind](https://img.shields.io/badge/tailwind-262626?style=for-the-badge&logo=tailwindcss)
 ![nextjs](https://img.shields.io/badge/next.js-262626?style=for-the-badge&logo=nextdotjs)
 ![expo](https://img.shields.io/badge/expo-262626?style=for-the-badge&logo=expo)
-![android](https://img.shields.io/badge/android-262626?style=for-the-badge&logo=android)
 
 ![net](https://img.shields.io/badge/.net-262626?style=for-the-badge&logo=dotnet)
 ![nodejs](https://img.shields.io/badge/node.js-262626?style=for-the-badge&logo=nodedotjs)
 ![mongo](https://img.shields.io/badge/mongo-262626?style=for-the-badge&logo=mongodb)
 
-![docker](https://img.shields.io/badge/docker-262626?style=for-the-badge&logo=docker)
 ![github](https://img.shields.io/badge/github-262626?style=for-the-badge&logo=github)
+![docker](https://img.shields.io/badge/docker-262626?style=for-the-badge&logo=docker)
 
 ## 📈 stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=kristianduda&theme=react&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide=&line_height=24)
