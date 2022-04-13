@@ -30,6 +30,7 @@ Currently I'm also working on some open-source libs, which drive a couple of my 
 
 ![github](https://img.shields.io/badge/github-262626?style=for-the-badge&logo=github)
 ![docker](https://img.shields.io/badge/docker-262626?style=for-the-badge&logo=docker)
+![docker](https://img.shields.io/badge/btc-262626?style=for-the-badge&logo=bitcoin)
 
 ## 📈 stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=kristianduda&theme=react&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide=&line_height=24)
