@@ -13,8 +13,7 @@
 
 
 ## 👨🏻‍💻 about me
-I'm a web developer from Slovakia, who is currently working at CORAgeo. I mainly code in .NET and JavaScript. In 2016 I fell in love with React. 
-Currently I'm also working on some open-source libs, which drive a couple of my projects. In free time outdoor sports play an import role for me.
+I'm a web developer from Slovakia. I mainly code in .NET and JavaScript. In 2016 I fell in love with React. I'm also working on some open-source libs, which drive a couple of my projects. In free time outdoor sports play an import role for me.
 
 
 ## 🔨 technologies I believe
