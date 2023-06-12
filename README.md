@@ -16,6 +16,7 @@
 I'm a web developer from Slovakia. I mainly code in .NET and Node.js. In 2016 I fell in love with React. 
 In free time outdoor sports play an import role for me.
 
+## 📈 stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=kristianduda&theme=react&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide=&line_height=24)
 
 <!--
