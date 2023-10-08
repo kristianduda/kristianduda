@@ -9,10 +9,10 @@
 
 </div>
 
-## 👨🏻‍💻 about
+## About
 Software developer from Slovakia, specialized in Node.js.
 
 At [Extropy](https://extropy.sk/), we're dedicated to providing you with cutting-edge solutions that fit your needs and amplify your abilities.
 
-## 📈 stats
-![github stats](https://github-readme-stats.vercel.app/api?username=kristianduda&theme=react&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide=&line_height=24)
+## Stats
+![github stats](https://github-readme-stats.vercel.app/api?username=kristianduda&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide=&line_height=24)
