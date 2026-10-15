@@ -8,4 +8,4 @@
 
 </div>
 
-I am Kristian Duda, software developer from Slovakia with extensive expertise in Node.js. I used to lead software teams. Today, I orchestrate AI agents. While agents write the code, I focus on system architecture and rigorous code reviews to deliver production-ready software faster.
+I’m Kristian Duda. I combine hands-on full-stack development, software architecture, and technical leadership. My work spans business-system integrations, data-driven products, and production platforms. I use AI agents to accelerate development, with responsibility for architecture and code review.
