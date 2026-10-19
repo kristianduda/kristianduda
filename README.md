@@ -9,3 +9,5 @@
 </div>
 
 I’m Kristian Duda. I combine hands-on full-stack development, software architecture, and technical leadership. My work spans business-system integrations, data-driven products, and production platforms. I use AI agents to accelerate development, with responsibility for architecture and code review.
+
+I work at Extropy, where we build software solutions and reusable development tools. Explore our projects: [github.com/extropysk](https://github.com/extropysk)
